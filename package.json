@@ -10,7 +10,7 @@
     "testing",
     "test"
   ],
-  "author": "The Coding Train",
+  "author": "Madelyn Helton",
   "license": "MIT",
   "devDependencies": {
     "jest": "^22.1.4"
